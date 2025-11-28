@@ -55,7 +55,7 @@ App.main()
 ````
 5. Run unit tests from SalesAnalyzerTest.java to validate the analysis methods.
 
-## Sample Output
+## Sample Output and Screenshots
 ````
 === Sales Analysis Report ===
 Total Revenue: 1250.0
@@ -71,3 +71,7 @@ Shirt: 250.0
 Top Selling Product: Laptop
 Average Sale Value: 62.5
 ````
+<img width="1060" height="651" alt="image" src="https://github.com/user-attachments/assets/3ccb0eb3-7c4e-4ab5-8cb9-c8adb4da1870" />
+
+<img width="1229" height="423" alt="image" src="https://github.com/user-attachments/assets/2a33c501-ae9a-43c7-8e89-1300276b53cf" />
+
