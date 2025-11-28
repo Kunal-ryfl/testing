@@ -58,18 +58,24 @@ App.main()
 ## Sample Output and Screenshots
 ````
 === Sales Analysis Report ===
-Total Revenue: 1250.0
+Total Revenue: 208600.0
 
-Quantity by Category:
-Electronics: 50
-Clothing: 30
+Quantity by Category: 
+Accessories: 3
+Clothing: 6
+Electronics: 11
 
-Revenue by Product:
-Laptop: 1000.0
-Shirt: 250.0
+Revenue by Product: 
+Laptop: 180000.0
+Belt: 800.0
+Shirt: 4800.0
+Mouse: 4000.0
+Keyboard: 6000.0
+Watch: 10000.0
+Pants: 3000.0
 
-Top Selling Product: Laptop
-Average Sale Value: 62.5
+Top Selling Product: Mouse
+Average Sale Value: 23177.777777777777
 ````
 <img width="1060" height="651" alt="image" src="https://github.com/user-attachments/assets/3ccb0eb3-7c4e-4ab5-8cb9-c8adb4da1870" />
 
